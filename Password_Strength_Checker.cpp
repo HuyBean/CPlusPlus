@@ -144,6 +144,6 @@ int main() {
 		gotoxy(9,23); cout<<"Do you want to generate password again (y/n): ";
 		op = getch();
 	}while(op=='y' || op=='Y');
-	
+
     return 0;
 }
